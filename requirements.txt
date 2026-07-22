@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+python-docx
+openpyxl
+firebase-admin
+PyPDF2
+pdfplumber
