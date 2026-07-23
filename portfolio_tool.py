@@ -7,7 +7,6 @@ import json
 import firebase_admin
 from firebase_admin import credentials, firestore
 import pdfplumber
-import tabula
 import matplotlib.pyplot as plt
 from matplotlib import cm
 from docx import Document
