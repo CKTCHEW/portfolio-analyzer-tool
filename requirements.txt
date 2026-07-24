@@ -3,6 +3,5 @@ pandas
 numpy
 matplotlib
 firebase-admin
-pdfplumber
 python-docx
 openpyxl
