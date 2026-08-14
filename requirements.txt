@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-matplotlib
-firebase-admin
-python-docx
-openpyxl
