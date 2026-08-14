@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+firebase-admin
+matplotlib
+python-docx
+openpyxl
+google-generativeai
