@@ -5,4 +5,5 @@ firebase-admin
 matplotlib
 python-docx
 openpyxl
-google-genai
+pypdf
+pdfminer.six
